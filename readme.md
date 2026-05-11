@@ -2,10 +2,8 @@
 Este repositório foi desenvolvido para guardar e compartilhar os avanços na utilização do Método de Nelder-Mead para a recuperação da energia do calorímetro de telhas TileCal do experimento ATLAS.
 
 ## Introdução
-Este projéto visa comparar os resultados obtidos a partir do método proposto (Nelder-Mead) com os resultados de alguns métodos utilizados atualmente no experimento, mais especificamente o Optimal Filter (OF2) e o Constrained Optimal Filter (COF).
-
-## Base de Dados
-Para maior entendimento dos resultados, foi utilizado dados simulados que foram gerados pela ferramenta disponível no repositório: https://github.com/ingoncalves/calorimetry-pulse-simulator
+O projéto visa comparar os resultados obtidos a partir do método proposto (Nelder-Mead) com os resultados de alguns métodos utilizados atualmente no experimento, mais especificamente o Optimal Filter (OF2) e o Constrained Optimal Filter (COF).
+A fim de termos maior controle e entendimento dos resultados, foi utilizado dados simulados que foram gerados pela ferramenta disponível no repositório: https://github.com/ingoncalves/calorimetry-pulse-simulator
 
 ## Copiando o Repositório
 Os métodos, base de dados utilizada e os resultados salvos podem ser copiados para estudo, mas é necessário configurar o ambiente para que tudo funcione corretamente. Após clonar o projeto, siga os passos abaixo.
