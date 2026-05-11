@@ -3,6 +3,7 @@ Este repositório foi desenvolvido para guardar e compartilhar os avanços na ut
 
 ## Introdução
 O projéto visa comparar os resultados obtidos a partir do método proposto (Nelder-Mead) com os resultados de alguns métodos utilizados atualmente no experimento, mais especificamente o Optimal Filter (OF2) e o Constrained Optimal Filter (COF).
+
 A fim de termos maior controle e entendimento dos resultados, foi utilizado dados simulados que foram gerados pela ferramenta disponível no repositório: https://github.com/ingoncalves/calorimetry-pulse-simulator
 
 ## Copiando o Repositório
